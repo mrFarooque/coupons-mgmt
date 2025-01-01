@@ -4,6 +4,7 @@
 This project is a Spring Boot application designed for managing coupons in an e-commerce system. It supports cart-wise coupons, integration with product categories, and an intuitive API for easy management. Developed as part of the **Monk Commerce 2024 task**.
 
 ---
+### [The Video Explaination](https://www.loom.com/share/abafe2555ff84564be896eedceff7658?sid=13621ab6-1663-400e-921e-6e3c44c39e72)
 
 ## Features  
 - **Cart-wise coupon support** for personalized discounts.  
